@@ -1,0 +1,1 @@
+C:\Users\janell\Desktop\HelloWorldUWP2\HelloWorldUWP2\HelloWorldUWP2.csproj;x86
